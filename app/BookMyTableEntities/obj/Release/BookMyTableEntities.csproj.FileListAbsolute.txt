@@ -1,0 +1,10 @@
+D:\AnkushWork\Github\WebAapplication\BookMyTableEntities\bin\Release\BookMyTableEntities.dll
+D:\AnkushWork\Github\WebAapplication\BookMyTableEntities\bin\Release\BookMyTableEntities.pdb
+D:\AnkushWork\Github\WebAapplication\BookMyTableEntities\obj\Release\BookMyTableEntities.dll
+D:\AnkushWork\Github\WebAapplication\BookMyTableEntities\obj\Release\BookMyTableEntities.pdb
+D:\AnkushWork\Github\WebAapplication\BookMyTableEntities\obj\Release\BookMyTableEntities.csprojResolveAssemblyReference.cache
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableEntities\bin\Release\BookMyTableEntities.dll
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableEntities\bin\Release\BookMyTableEntities.pdb
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableEntities\obj\Release\BookMyTableEntities.csprojResolveAssemblyReference.cache
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableEntities\obj\Release\BookMyTableEntities.dll
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableEntities\obj\Release\BookMyTableEntities.pdb

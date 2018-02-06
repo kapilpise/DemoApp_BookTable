@@ -1,0 +1,24 @@
+D:\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\BookMyTableDataLayer.dll.config
+D:\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\BookMyTableDataLayer.dll
+D:\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\BookMyTableDataLayer.pdb
+D:\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\BookMyTableEntities.dll
+D:\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\EntityFramework.dll
+D:\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\EntityFramework.SqlServer.dll
+D:\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\BookMyTableEntities.pdb
+D:\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\EntityFramework.xml
+D:\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\EntityFramework.SqlServer.xml
+D:\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\obj\Release\BookMyTableDataLayer.csprojResolveAssemblyReference.cache
+D:\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\obj\Release\BookMyTableDataLayer.dll
+D:\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\obj\Release\BookMyTableDataLayer.pdb
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\BookMyTableDataLayer.dll.config
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\BookMyTableDataLayer.dll
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\BookMyTableDataLayer.pdb
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\BookMyTableEntities.dll
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\EntityFramework.dll
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\EntityFramework.SqlServer.dll
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\BookMyTableEntities.pdb
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\EntityFramework.xml
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\bin\Release\EntityFramework.SqlServer.xml
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\obj\Release\BookMyTableDataLayer.csprojResolveAssemblyReference.cache
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\obj\Release\BookMyTableDataLayer.dll
+D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableDataLayer\obj\Release\BookMyTableDataLayer.pdb
