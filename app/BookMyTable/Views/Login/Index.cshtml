@@ -3,7 +3,20 @@
     ViewBag.Title = "Login Page";
 }
 <script src="~/Scripts/BookMyTableNgJs/LoginController.js"></script>
-<div class="left_100" ng-controller="loginController">
+@if (ViewBag.Message != null)
+{
+    <script>
+
+            $(document).ready(function () {
+
+                alert('@ViewBag.Message');
+
+            });
+
+    </script>
+
+}
+@*<div class="left_100" ng-controller="loginController">
     <div class="container">
         <div id="loginbox" style="margin-top:50px;" class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
             <div class="panel panel-info">
@@ -15,55 +28,23 @@
                 <div style="padding-top:30px" class="panel-body">
 
                     <div style="display:none" id="login-alert" class="alert alert-danger col-sm-12"></div>
-
+                     @using (Html.BeginForm("Login", "Index", FormMethod.Post))
+                     {
                     <form id="loginform" class="form-horizontal" role="form" name="LoginPageFrom">
 
-                        @*  Username  *@
-                        <div style="margin-bottom: 25px" class="input-group" ng-class="{ 'has-error' : LoginPageFrom.username.$invalid && !LoginPageFrom.username.$pristine }">
-                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                            <input id="login-username" type="text" class="form-control" ng-model="loginForm.username" name="username" value="" placeholder="username" required>
-                            <p ng-show=" LoginPageFrom.username.$invalid && !LoginPageFrom.username.$pristine" class="help-block">You name is required.</p>
-                        </div>
-
-                        @*  Password  *@
-                        <div style="margin-bottom: 25px" class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-key"></i></span>
-                            <input id="login-password" type="password" class="form-control" ng-model="loginForm.password" name="password" placeholder="password" required>
-                        </div>
+                        <p>Email</p>
+                        <input type="email" class="email" name="email" placeholder="Email" required="" />
+                        <p>Password</p>
+                        <input type="password" class="password" name="Password" placeholder="Password" required="" />
 
 
 
-                        <div class="input-group">
-                            <div class="checkbox">
-                                <label>
-                                    <input id="login-remember" type="checkbox" name="remember" ng-model="loginForm.IsRemember" value="1"> Remember me
-                                </label>
-                            </div>
-                        </div>
 
 
-                        <div style="margin-top:10px" class="form-group">
-                            <!-- Button -->
-
-                            <div class="col-sm-12 controls">
-                                <a id="btn-login" href="#" class="btn btn-success" ng-click="BookMyTableLoging()">Login </a>
-
-                            </div>
-                        </div>
-
-
-                        <div class="form-group">
-                            <div class="col-md-12 control">
-                                <div style="border-top: 1px solid#888; padding-top:15px; font-size:85%">
-                                    Don't have an account!
-                                    <a href="#" onClick="$('#loginbox').hide(); $('#signupbox').show()">
-                                        Sign Up Here
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
+                        <input type="submit" value="Login">
+                        
                     </form>
-
+                     }
 
 
                 </div>
@@ -139,4 +120,85 @@
         </div>
     </div>
 
-</div>
+</div>*@
+
+<!doctype html>
+<html>
+<head>
+
+    <!-- for-mobile-apps -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <!-- //for-mobile-apps -->
+    <link href="//fonts.googleapis.com/css?family=Abril+Fatface&amp;subset=latin-ext" rel="stylesheet">
+    <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300' rel='stylesheet' type='text/css'>
+    <!-- font-awesome icons -->
+    <link href="~/Content/login/css/font-awesome.css" rel="stylesheet">
+    <!-- //font-awesome icons -->
+    @*<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+        <script src="js/jquery-2.1.4.min.js"></script>*@
+    <link href="~/Content/login/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <script src="~/Content/login/js/jquery-2.1.4.min.js"></script>
+    @if (ViewBag.Message != null)
+    {
+        <script>
+
+            $(document).ready(function () {
+
+                alert('@ViewBag.Message');
+
+            });
+
+        </script>
+
+    }
+</head>
+<body>
+    <div class="content" id="Main-Content">
+
+        <div class="w3ls-slider">
+            <div class="hub-slider">
+                <div class="hub-slider-slides">
+                    <ul>
+                        <li>
+                            <div class="login-form login-form-left">
+                                <div class="agile-row">
+                                    <h2>Sign In</h2>
+                                    <div class="login-agileits-top">
+                                        @using (Html.BeginForm("Index", "Login", FormMethod.Post))
+                                        {
+                                            <p>Email</p>
+                                            <input type="email" class="email" name="email" placeholder="Email" required="" />
+                                            <p>Password</p>
+                                            <input type="password" class="password" name="Password" placeholder="Password" required="" />
+
+
+
+
+
+                                            <input type="submit" value="Sign In">
+                                        }
+                                    </div>
+
+                                    <div class="login-agileits-bottom">
+                                        <h6><a href="#">Forgot password?</a></h6>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+       
+        <!-- //copyright -->
+        <script type="text/javascript" src="js/hubslider.js"></script>
+    </div>
+</body>
+</html>

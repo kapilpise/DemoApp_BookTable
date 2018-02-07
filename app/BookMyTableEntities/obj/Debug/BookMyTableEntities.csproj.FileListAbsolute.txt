@@ -12,3 +12,13 @@ D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableEntities\bin\Debug\Book
 D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableEntities\obj\Debug\BookMyTableEntities.csprojResolveAssemblyReference.cache
 D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableEntities\obj\Debug\BookMyTableEntities.dll
 D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableEntities\obj\Debug\BookMyTableEntities.pdb
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\app\BookMyTableEntities\bin\Debug\BookMyTableEntities.dll
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\app\BookMyTableEntities\bin\Debug\BookMyTableEntities.pdb
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\app\BookMyTableEntities\obj\Debug\BookMyTableEntities.csprojResolveAssemblyReference.cache
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\app\BookMyTableEntities\obj\Debug\BookMyTableEntities.dll
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\app\BookMyTableEntities\obj\Debug\BookMyTableEntities.pdb
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\DemoApp_BookTable\app\BookMyTableEntities\bin\Debug\BookMyTableEntities.dll
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\DemoApp_BookTable\app\BookMyTableEntities\bin\Debug\BookMyTableEntities.pdb
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\DemoApp_BookTable\app\BookMyTableEntities\obj\Debug\BookMyTableEntities.dll
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\DemoApp_BookTable\app\BookMyTableEntities\obj\Debug\BookMyTableEntities.pdb
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\DemoApp_BookTable\app\BookMyTableEntities\obj\Debug\BookMyTableEntities.csprojResolveAssemblyReference.cache

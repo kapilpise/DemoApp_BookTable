@@ -12,3 +12,13 @@ D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableService\bin\Debug\BookM
 D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableService\obj\Debug\BookMyTableService.csprojResolveAssemblyReference.cache
 D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableService\obj\Debug\BookMyTableService.dll
 D:\Ankush P\AnkushWork\Github\WebAapplication\BookMyTableService\obj\Debug\BookMyTableService.pdb
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\app\BookMyTableService\bin\Debug\BookMyTableService.dll
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\app\BookMyTableService\bin\Debug\BookMyTableService.pdb
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\app\BookMyTableService\obj\Debug\BookMyTableService.csprojResolveAssemblyReference.cache
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\app\BookMyTableService\obj\Debug\BookMyTableService.dll
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\app\BookMyTableService\obj\Debug\BookMyTableService.pdb
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\DemoApp_BookTable\app\BookMyTableService\bin\Debug\BookMyTableService.dll
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\DemoApp_BookTable\app\BookMyTableService\bin\Debug\BookMyTableService.pdb
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\DemoApp_BookTable\app\BookMyTableService\obj\Debug\BookMyTableService.dll
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\DemoApp_BookTable\app\BookMyTableService\obj\Debug\BookMyTableService.pdb
+C:\Users\Vaishali Bakde\Source\Repos\DemoApp_BookTable\DemoApp_BookTable\app\BookMyTableService\obj\Debug\BookMyTableService.csprojResolveAssemblyReference.cache

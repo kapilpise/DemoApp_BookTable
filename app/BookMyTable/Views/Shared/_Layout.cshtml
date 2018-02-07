@@ -53,10 +53,12 @@
                     <a class="navbar-brand" href="#" style="font-family:Calibri">Home</a>
 
                     <a class="navbar-brand" href="#!/ManageOrder" style="font-family:Calibri">Manage Order</a>
+
                 </div>
                 <div class="navbar-collapse collapse" id="navbar-collapse-1" aria-expanded="false" style="height: 1px;">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a style="font-family:Calibri" href="#">Hotel Lists</a></li>
+                        <input type="button" class="btn btn-primary book-btn" value="Login" onclick="@("window.location.href='" + @Url.Action("Index", "Login") + "'");" />
                     </ul>
                 </div>
             </div>
